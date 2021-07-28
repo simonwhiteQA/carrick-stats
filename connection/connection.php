@@ -1,7 +1,7 @@
 <?php
 $servername = "213.171.200.98";
-$username = "simonwhite"; // For MYSQL the predifined username is root
-$password = "Storeen17"; // For MYSQL the predifined password is " "(blank)
+$username = ""; // For MYSQL the predifined username is root
+$password = ""; // For MYSQL the predifined password is " "(blank)
 //$database = "carrickdb"; // For MYSQL the predifined password is " "(blank)
 
 // Create connection
